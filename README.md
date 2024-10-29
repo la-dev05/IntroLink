@@ -23,17 +23,8 @@ The app is built using Swift UI in Apple Xcode.
 
 The IntroLink Prototype code is located within the “IntroLink” folder. To validate the concept, kindly download the files and open them in Apple Xcode. Subsequently, execute the application on an iPhone or iPhone simulator. It is important to note that the prototype is intended solely for concept demonstration purposes and will not function unless pre-specified values are entered and pre-programmed buttons are pressed.
 
-Page 1:
-<img width="264" alt="image" src="https://github.com/user-attachments/assets/8f16f1de-41d4-4f7b-99a1-b6d07f343160">
 
-Page 2: 
-<img width="260" alt="image" src="https://github.com/user-attachments/assets/0c86bace-2064-4ded-b7fb-4544048e3b40">
-
-Page 3:
-<img width="263" alt="image" src="https://github.com/user-attachments/assets/2546cbb9-968a-42c5-a726-86aeecec0334">
-
-Page 4:
-<img width="263" alt="image" src="https://github.com/user-attachments/assets/dc75e1eb-59be-4676-8b1a-413cc5d3bb42">
-
+Sample Snapshots:
+<img width="1281" alt="image" src="https://github.com/user-attachments/assets/9113000e-3a29-464c-97cf-07d5b23de6e3">
 
 
