@@ -20,3 +20,9 @@ The app is built using Swift UI in Apple Xcode.
    This approach breaks the ice naturally, without either user needing to take the first step.
 
 **PS:** The IntroLink Prototype Code is intended solely for demonstration purposes and does not incorporate the custom machine learning models for initiating assistive conservation.
+
+The IntroLink Prototype code is located within the “IntroLink” folder. To validate the concept, kindly download the files and open them in Apple Xcode. Subsequently, execute the application on an iPhone or iPhone simulator. It is important to note that the prototype is intended solely for concept demonstration purposes and will not function unless pre-specified values are entered and pre-programmed buttons are pressed.
+
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/8f16f1de-41d4-4f7b-99a1-b6d07f343160">
+
+
